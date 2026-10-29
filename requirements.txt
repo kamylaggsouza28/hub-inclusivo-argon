@@ -1,3 +1,6 @@
 streamlit>=1.35,<2
 pandas>=2.0,<3
 requests>=2.31,<3
+Pillow>=10.2,<13
+reportlab>=4.0,<5
+graphviz>=0.20,<1
